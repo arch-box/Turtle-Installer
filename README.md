@@ -1,7 +1,7 @@
 # Turtle Installer
 A Turtle-themed NSP, NSZ, XCI, and XCZ Installer for Nintendo Switch
 
-![Turtle Installer Main Menu](https://i.imgur.com/q5Qff0R.jpg)
+![Turtle Installer Main Menu](https://i.imgur.com/eL1iZ0Q.jpg)
 
 ## Features
 - Installs NSP/NSZ/XCI/XCZ files and split NSP/XCI files from your SD card
